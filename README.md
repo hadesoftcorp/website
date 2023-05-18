@@ -8,4 +8,4 @@ VIEW DEPLOY THIS WEBSITE
 
 SIMPLE SCREENSHOOT 
 ==============
-<img src="https://github.com/hadesoftcorp/website/blob/main/images/screenshoot.PNG" alt="Tampilan Beranda" data-canonical-src="https://github.com/hadesoftcorp/website/blob/main/images/screenshoot.PNG" width="100%" />
+<img src="https://github.com/hadesoftcorp/website/blob/main/assets/images/screenshoot.PNG" alt="Tampilan Beranda" data-canonical-src="https://github.com/hadesoftcorp/website/blob/main/assets/images/screenshoot.PNG" width="100%" />
